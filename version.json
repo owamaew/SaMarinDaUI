@@ -1,6 +1,6 @@
 {
-  "latestVersion": "V3.0.1",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.0.1.exe",
+  "latestVersion": "V3.0.2",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.0.2.exe",
   "mandatory": true,
-  "changelog": "- Fix lag\n- Remove glassmorphism to improve performance\n- Add shortcut in settings for 'Clear Jejak'"
+  "changelog": "- Fix important bug: cannot running cheat vip\n- Fix important bug: cannot generate token"
 }
