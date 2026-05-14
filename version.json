@@ -1,6 +1,6 @@
 {
-  "latestVersion": "V1.0.0",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa.UI.exe",
-  "mandatory": false,
+  "latestVersion": "V3.0.1",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.0.1.exe",
+  "mandatory": true,
   "changelog": "- Fix bug filter JualChar\n- Tambah fitur auto-update\n- Performance improvements"
 }
