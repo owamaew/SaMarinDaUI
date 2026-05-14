@@ -2,5 +2,5 @@
   "latestVersion": "V3.0.1",
   "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.0.1.exe",
   "mandatory": true,
-  "changelog": "- Fix bug filter JualChar\n- Tambah fitur auto-update\n- Performance improvements"
+  "changelog": "- Fix lag\n- Remove glassmorphism to improve performance\n- Add shortcut in settings for 'Clear Jejak'"
 }
