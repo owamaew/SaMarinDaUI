@@ -1,6 +1,6 @@
 {
-  "latestVersion": "V3.0.5",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.0.5.exe",
+  "latestVersion": "V3.0.7",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.0.7.exe",
   "mandatory": true,
-  "changelog": "- Fix bug Jualchar + Halo Screen"
+  "changelog": "- Fix Bug Stuck"
 }
