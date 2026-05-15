@@ -1,6 +1,6 @@
 {
-  "latestVersion": "V3.1.1",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.1.exe",
+  "latestVersion": "V3.1.2",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.2.exe",
   "mandatory": true,
-  "changelog": "- Improve API Calls"
+  "changelog": "- BUG Tab & Chart"
 }
