@@ -1,7 +1,7 @@
 {
-  "latestVersion": "V3.1.7",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.7.exe",
+  "latestVersion": "V3.1.8",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.8.exe",
   "mandatory": true,
-  "changelog": "- Fix bug dns enforcement",
+  "changelog": "- Fix Lag",
   "date": "19 May 2026"
 }
