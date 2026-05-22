@@ -1,7 +1,7 @@
 {
-  "latestVersion": "V3.1.9",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.9.exe",
+  "latestVersion": "V3.1.10",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.10.exe",
   "mandatory": true,
-  "changelog": "- Fix Several Bugs",
+  "changelog": "- Add auto retry",
   "date": "22 May 2026"
 }
