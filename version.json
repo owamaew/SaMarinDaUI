@@ -1,7 +1,7 @@
 {
-  "latestVersion": "V3.1.13",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.13.exe",
+  "latestVersion": "V3.1.14",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.14.exe",
   "mandatory": true,
-  "changelog": "- Change endpoint 2nd",
+  "changelog": "- Change endpoint 3nd",
   "date": "25 May 2026"
 }
