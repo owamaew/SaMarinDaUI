@@ -1,7 +1,7 @@
 {
-  "latestVersion": "V3.1.15",
-  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.15.exe",
+  "latestVersion": "V3.1.16",
+  "downloadUrl": "https://github.com/owamaew/downloaderGUI/releases/download/V5/SaMarinDa-UI-3.1.16.exe",
   "mandatory": true,
-  "changelog": "- Fix image",
-  "date": "25 May 2026"
+  "changelog": "- Add Promo Section on Freemium",
+  "date": "26 May 2026"
 }
